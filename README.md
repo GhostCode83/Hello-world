@@ -1,4 +1,3 @@
 # Hello-world
 Repository for Career Karma HTML Group!
-I am lying down as I type this.
-I made an edit to tell one thing about myself.
+I am a software developer in the Washington, DC area that loves to learn new things!
